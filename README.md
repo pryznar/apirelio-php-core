@@ -1,5 +1,9 @@
 # Apirelio PHP Core
 
+[Documentation](https://apirelio.com/docs/php) · [Packagist](https://packagist.org/packages/apirelio/php-core) · [Apirelio](https://apirelio.com)
+
+> Build customer-aware PHP API monitoring integrations on a privacy-safe event contract with fail-safe delivery.
+
 Framework-independent building blocks shared by the official Apirelio PHP SDKs.
 Applications normally install a framework adapter such as
 `apirelio/laravel`, `apirelio/symfony` or `apirelio/nette`; Composer installs
