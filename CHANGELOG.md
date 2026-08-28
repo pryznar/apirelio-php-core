@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.0 - 2026-08-28
+
+- Mark the shared PHP event, privacy and delivery contracts as stable.
+- Support PHP 8.2 through PHP 8.5 and PHPUnit 11–13.
+
 ## 0.2.0
 
 - Rebrand the package and PHP namespace from Tracium to Apirelio.
